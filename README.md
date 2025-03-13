@@ -1,4 +1,4 @@
-# Projetinho – Raspagem de Dados com Laravel
+# Raspagem de Dados com Laravel - Free Market
 
 Este projeto foi desenvolvido como parte de um teste técnico e consistiu em realizar uma raspagem de dados (web scraping) de um site popular, no caso, o Mercado Livre. A ideia foi acessar o site via script, extrair os dados do HTML e reproduzir essas informações no projeto, de forma similar ao consumo de uma API.
 
